@@ -24,3 +24,75 @@ Password: asl;d235123ss##4!@DER
 ![screencapture-fcs-loc-admin-category-add-2022-05-20-20_48_42](https://user-images.githubusercontent.com/77085208/169627044-739ba522-d9c6-4efb-b927-6865018b3e62.png)
 ![screencapture-fcs-loc-admin-product-2022-05-20-20_48_55](https://user-images.githubusercontent.com/77085208/169627049-7ecda460-aae6-42f7-8c03-e5e940e15f30.png)
 ![screencapture-fcs-loc-admin-product-add-2022-05-20-20_49_05](https://user-images.githubusercontent.com/77085208/169627051-a2ff1e31-c4dd-4460-8faf-ba0ee9f12ad8.png)
+
+# The final functionality of the Ecommerce 
+
+User registration and authorization;
+
+Buyer's personal account;
+
+Editing credentials;
+
+Tree of categories menu subcategories;
+
+Shopping cart and checkout;
+
+Making an order;
+
+Remove items from the shopping cart;
+
+Product categories with unlimited nesting level;
+
+Product Search;
+
+Digital Goods;
+
+Standard products;
+
+Adding a product to favorites;
+
+The ability to download digital goods via dynamic links;
+
+Bread crumbs;
+
+Multilingualism;
+
+Caching;
+
+Home page;
+
+Page with category;
+
+Slider Output;
+
+Getting goods by language;
+
+Product page;
+
+Page 404;
+
+List of user orders;
+
+Viewing an order;
+
+List of user's digital goods;
+
+Downloading a digital product;
+
+---
+# Admin Panel
+
+Category Management;
+
+Product Management;
+
+Order Management;
+
+User Management;
+
+Managing permanent site pages;
+
+Cache Management;
+
+Slider control.
+
