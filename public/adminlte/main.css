@@ -1,0 +1,10 @@
+body {
+    min-width: 320px;
+}
+
+@media all and(min-width: 992px) {
+    .logs{
+        margin-left: 250px;
+    }
+}
+
